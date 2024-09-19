@@ -1,0 +1,5 @@
+../Core/Src/vofa.c:18:9:_calASCII	1
+../Core/Src/vofa.c:22:9:_calculateData	4
+../Core/Src/vofa.c:40:9:_setVofaProtocol	4
+../Core/Src/vofa.c:68:9:_getVofaData	7
+../Core/Src/vofa.c:110:6:Vofa_Test	3
