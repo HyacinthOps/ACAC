@@ -1,0 +1,4 @@
+PC0	-> PWM1
+PC13	-> PWM3
+PC1	-> PWM2
+PA12	-> PWM4
